@@ -2,13 +2,6 @@
 
 **Group number:** 8
 
-| Full Name | ID Number | College Email |
-|---|---|---|
-| Maor Dalal | 324221233 | Maor.Dalal@e.braude.ac.il |
-| Neta Baron | 213554512 | Neta.Baron@e.braude.ac.il |
-| Segev Morag | 212981906 | Segev.Morag@e.braude.ac.il |
-| Gal Florenthal | 212589469 | Gal.Florenthal@e.braude.ac.il |
-
 
 ## Scope
 
